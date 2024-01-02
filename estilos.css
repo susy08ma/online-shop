@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic);
+
+/** VARIABLES */
+:root {
+  --color-primario: #0d6efd;
+  --color-secundario: #0b5ed7;
+  --color-oscuro: #122936;
+}
+
+/** GENERALES */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
